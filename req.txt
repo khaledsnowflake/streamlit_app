@@ -1,1 +1,1 @@
-sf-connector-python
+snowflake-connector-python
